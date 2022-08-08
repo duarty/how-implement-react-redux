@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+
+
+Here I share an example of how you can share states through react redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
